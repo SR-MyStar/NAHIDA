@@ -1,2 +1,11 @@
-# NAHIDA
-No! Awful! Here Is a really Damn and Awful modpack！
+<h1 align="center">NAHIDA<br/>-<br/>No! Awful! Here Is a really Damn and Awful modpack！</h1>
+一个包含科技、魔法和冒险要素的整合包，并且几乎没对任何非GUI和优化类的mod的配置进行修改
+
+几乎所有常用的优化mod都在这个整合包里（毕竟作者电脑也不太好）
+
+## 建议游玩配置
+内存建议分3.5G\~4G，如果只玩服务器分2.5\~3G就行了
+
+开光影要想能玩（15FPS以上），需要显卡的性能起码和`Inter UHD 730`（i5-12400的核显）持平，否则建议关掉光影，***~~以免使你的系统崩溃~~***
+
+***~~不开光影估计奔腾也能玩~~***
